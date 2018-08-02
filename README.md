@@ -72,12 +72,8 @@ With the following software and hardware list you can run all code files present
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 ## Get to Know the Author
-**Author Name**
-Bio
-
-**Author Name**
-Bio
-
+**Zaid Sabih**
+Zaid Sabih is an ethical hacker, a computer scientist, and the founder and CTO of zSecurity. He has good experience in ethical hacking; he started working as a pentester with iSecurity. In 2013, he started teaching his first network hacking course; this course received amazing feedback, leading him to publish a number of online ethical hacking courses, each focusing on a specific topic, all of which are dominating the ethical hacking topic on Udemy. Now Zaid has more than 300,000 students on Udemy and other teaching platforms, such as StackSocial, StackSkills, and zSecurity.
 
 ## Other books by the author
 * [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
