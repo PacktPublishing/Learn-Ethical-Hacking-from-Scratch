@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
+| 1        |N/A                     | Windows, Mac OS X, and Linux (Any) |
 | 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
