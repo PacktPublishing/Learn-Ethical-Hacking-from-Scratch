@@ -1,0 +1,10 @@
+cave_miner_inline
+iat_reverse_tcp_inline
+iat_reverse_tcp_inline_threaded
+iat_reverse_tcp_stager_threaded
+iat_user_supplied_shellcode_threaded
+meterpreter_reverse_https_threaded
+reverse_shell_tcp_inline
+reverse_tcp_stager_threaded
+user_supplied_shellcode_threaded
+

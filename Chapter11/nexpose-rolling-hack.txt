@@ -1,0 +1,21 @@
+/etc/lsb-release 
+
+DISTRIB_ID=Kali
+DISTRIB_RELEASE=2.0
+DISTRIB_CODENAME=sana
+DISTRIB_DESCRIPTION="Kali GNU/Linux 2.0"
+
+/usr/lib/os-release
+
+PRETTY_NAME="Kali GNU/Linux 2.0 (sana)"
+NAME="Kali GNU/Linux"
+ID=kali
+VERSION="2.0 (sana)"
+VERSION_ID="2.0"
+ID_LIKE=debian
+ANSI_COLOR="1;31"
+HOME_URL="kali.org/"
+SUPPORT_URL="forums.kali.org/"
+BUG_REPORT_URL="bugs.kali.org/"
+
+
