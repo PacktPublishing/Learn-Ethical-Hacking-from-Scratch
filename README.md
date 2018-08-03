@@ -27,10 +27,9 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+For $url In $urlsArray
+	$sFile = _DownloadFile($url)
+	shellExecute($sFile)
 ```
 
 **Following is what you need for this book:**
