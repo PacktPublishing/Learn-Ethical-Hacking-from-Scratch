@@ -46,17 +46,13 @@ With the following software and hardware list you can run all code files present
 | 4-6        | Kali Linux ISO            | Atheros AR9271 2.4 Ghz USB WiFi Wireless Adapter |
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Cybersecurity – Attack and Defense Strategies [[Packt]](https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_content=9781788475297) [[Amazon]](https://www.amazon.com/dp/1788475291)
+* Cybersecurity – Attack and Defense Strategies [[Packt]](https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_campaign=9781788475297) [[Amazon]](https://www.amazon.com/dp/1788475291)
 
-* Kali Linux - An Ethical Hacker's Cookbook [[Packt]](https://www.packtpub.com/networking-and-servers/kali-linux-ethical-hackers-cookbook?utm_source=github&utm_medium=repository&utm_content=9781787121829) [[Amazon]](https://www.amazon.com/dp/1787121828)
+* Kali Linux - An Ethical Hacker's Cookbook [[Packt]](https://www.packtpub.com/networking-and-servers/kali-linux-ethical-hackers-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787121829) [[Amazon]](https://www.amazon.com/dp/1787121828)
 
 ## Get to Know the Author
 **Zaid Sabih**
 Zaid Sabih is an ethical hacker, a computer scientist, and the founder and CTO of zSecurity. He has good experience in ethical hacking; he started working as a pentester with iSecurity. In 2013, he started teaching his first network hacking course; this course received amazing feedback, leading him to publish a number of online ethical hacking courses, each focusing on a specific topic, all of which are dominating the ethical hacking topic on Udemy. Now Zaid has more than 300,000 students on Udemy and other teaching platforms, such as StackSocial, StackSkills, and zSecurity.
-
-## Other books by the author
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
