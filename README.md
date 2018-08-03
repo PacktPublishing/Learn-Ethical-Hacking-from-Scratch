@@ -42,29 +42,8 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | Hardware required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | N/A                     | N/A |
-| 2        | VirtualBox, Kali Linux ISO, Metasploitable ISO, Windows 10 ISO            | Windows, Mac OS X, and Linux (Any) |
-| 3        | N/A            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Wireless Adapter |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 16        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 17        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 18        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 19        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 20        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 21        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 22        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-
+| 1-22        | VirtualBox, Kali Linux ISO, Metasploitable ISO, Windows 10 ISO            | Windows, Mac OS X, and Linux (Any) |
+| 4-6        | Kali Linux ISO            | Wireless Adapter |
 
 ### Related products <Paste books from the Other books you may enjoy section>
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
