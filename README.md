@@ -43,7 +43,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
 | 1        |N/A                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 2        | VirtualBox, Kali Linux ISO, Metasploitable ISO, Windows 10 ISO            | Windows, Mac OS X, and Linux (Any) |
 | 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
