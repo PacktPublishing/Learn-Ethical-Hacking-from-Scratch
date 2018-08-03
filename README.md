@@ -1,8 +1,8 @@
 # Learn Ethical Hacking from Scratch
 
-<a href="https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_content=9781788622059"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09055.png" alt="Learn Ethical Hacking from Scratch" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09055.png" alt="Learn Ethical Hacking from Scratch" height="256px" align="right"></a>
 
-This is the code repository for [Learn Ethical Hacking from Scratch](https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_content=9781788622059), published by Packt.
+This is the code repository for [Learn Ethical Hacking from Scratch](https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059), published by Packt.
 
 **Your stepping stone to penetration testing**
 
@@ -36,19 +36,19 @@ if (test expression)
 **Following is what you need for this book:**
 Learning Ethical Hacking from Scratch is for anyone interested in learning how to hack and test the security of systems like professional hackers and security experts.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-22).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | Hardware required                        |
 | -------- | ------------------------------------| -----------------------------------|
 | 1-22        | VirtualBox, Kali Linux ISO, Metasploitable ISO, Windows 10 ISO            | Windows, Mac OS X, and Linux (Any) |
-| 4-6        | Kali Linux ISO            | Wireless Adapter |
+| 4-6        | Kali Linux ISO            | Atheros AR9271 2.4 Ghz USB WiFi Wireless Adapter |
 
 ### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Cybersecurity – Attack and Defense Strategies [[Packt]](https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_content=9781788475297) [[Amazon]](https://www.amazon.com/dp/1788475291)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Kali Linux - An Ethical Hacker's Cookbook [[Packt]](https://www.packtpub.com/networking-and-servers/kali-linux-ethical-hackers-cookbook?utm_source=github&utm_medium=repository&utm_content=9781787121829) [[Amazon]](https://www.amazon.com/dp/1787121828)
 
 ## Get to Know the Author
 **Zaid Sabih**
