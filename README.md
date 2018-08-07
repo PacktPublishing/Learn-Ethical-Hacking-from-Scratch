@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Zaid Sabih**
-Zaid Sabih is an ethical hacker, a computer scientist, and the founder and CTO of zSecurity. He has good experience in ethical hacking; he started working as a pentester with iSecurity. In 2013, he started teaching his first network hacking course; this course received amazing feedback, leading him to publish a number of online ethical hacking courses, each focusing on a specific topic, all of which are dominating the ethical hacking topic on Udemy. Now Zaid has more than 300,000 students on Udemy and other teaching platforms, such as StackSocial, StackSkills, and zSecurity.
+ is an ethical hacker, a computer scientist, and the founder and CTO of zSecurity. He has good experience in ethical hacking; he started working as a pentester with iSecurity. In 2013, he started teaching his first network hacking course; this course received amazing feedback, leading him to publish a number of online ethical hacking courses, each focusing on a specific topic, all of which are dominating the ethical hacking topic on Udemy. Now Zaid has more than 300,000 students on Udemy and other teaching platforms, such as StackSocial, StackSkills, and zSecurity.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
